@@ -1,11 +1,11 @@
 ![Robert boule](image.png)
 
-# 👤 Persona : Robert boule, Expert en voitures anciennes
+# 👤 Persona : Robert Boule, Expert en voitures anciennes
 Âge : 46 ans
 
 Profession : Consultant indépendant en véhicules classiques
 
-Lieu : Montelimard, France
+Lieu : Montélimar, France
 
 Formation : Ingénieur mécanique automobile
 
