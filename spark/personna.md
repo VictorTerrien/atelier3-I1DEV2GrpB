@@ -3,7 +3,7 @@
 # 👤 Persona : Robert Boule, Expert en voitures anciennes
 Âge : 46 ans
 
-Profession : Consultant indépendant en véhicules classiques
+Profession : Vendeur concessionnaire automobile
 
 Lieu : Montélimar, France
 
